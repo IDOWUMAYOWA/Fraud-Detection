@@ -187,9 +187,6 @@ The application will open in your default web browser at `http://localhost:8501`
 
 This project is available for educational and research purposes.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
